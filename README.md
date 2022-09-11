@@ -1,3 +1,9 @@
+Este projeto foi feito a partir do video: https://www.youtube.com/watch?v=xU4SZYRex2k&list=PLAMpf2Pxx82vgZihkiZk6AXoMe14qDddH&index=9
+
+Este projeto será usado como "playground" para um projeto posterior
+
+Estou aberto a sujestões ou dúvidas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
